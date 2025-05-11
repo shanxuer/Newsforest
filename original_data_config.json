@@ -1,0 +1,2793 @@
+{
+  "total_entries": 12406,
+  "total_paths": 8601,
+  "processed_trees": 694,
+  "timestamp": "2025-04-23 08:45:46",
+  "avg_path_length": 4.39,
+  "min_path_length": 2,
+  "max_path_length": 14,
+  "avg_input_length": 2.95,
+  "min_input_length": 1,
+  "max_input_length": 9,
+  "avg_mask_length": 1.44,
+  "min_mask_length": 1,
+  "max_mask_length": 5,
+  "tree_details": [
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\ai_musk_20241003_to_20241102\\tree\\story_tree.json",
+      "entries_count": 41
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\ai_musk_20241011_to_20241230\\tree\\story_tree.json",
+      "entries_count": 18
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\ai_musk_20241018_to_20241127\\tree\\story_tree.json",
+      "entries_count": 86
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\ai_musk_20250203_to_20250223\\tree\\story_tree.json",
+      "entries_count": 85
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\ai_musk_20250223_to_20250424\\tree\\story_tree.json",
+      "entries_count": 134
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\america_market_20241031_to_20250119\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\america_market_20241125_to_20250124\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\america_tariff_20241120_to_20250208\\tree\\story_tree.json",
+      "entries_count": 12
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\america_tariff_20241127_to_20250106\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\america_tariff_20250111_to_20250210\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\america_tariff_20250124_to_20250325\\tree\\story_tree.json",
+      "entries_count": 12
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\america_tariff_20250203_to_20250223\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\biden_tariff_20241120_to_20250208\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\biden_tariff_20241125_to_20241215\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\biden_tariff_20241125_to_20250124\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\biden_tariff_20241127_to_20250106\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_economic_20241011_to_20241230\\tree\\story_tree.json",
+      "entries_count": 24
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_economic_20241018_to_20241127\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_economic_20241023_to_20241122\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_economic_20250203_to_20250404\\tree\\story_tree.json",
+      "entries_count": 17
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_economic_20250223_to_20250315\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_export_20241011_to_20241230\\tree\\story_tree.json",
+      "entries_count": 29
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_export_20241018_to_20241127\\tree\\story_tree.json",
+      "entries_count": 20
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_export_20241023_to_20241122\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_export_20250203_to_20250223\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_export_20250203_to_20250404\\tree\\story_tree.json",
+      "entries_count": 65
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_investor_20241031_to_20250119\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_musk_20241011_to_20241230\\tree\\story_tree.json",
+      "entries_count": 12
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_musk_20241217_to_20250126\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_musk_20241222_to_20250121\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_musk_20250104_to_20250124\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_musk_20250203_to_20250404\\tree\\story_tree.json",
+      "entries_count": 14
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_stock_20241003_to_20241102\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_stock_20241008_to_20241117\\tree\\story_tree.json",
+      "entries_count": 13
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_stock_20241011_to_20241230\\tree\\story_tree.json",
+      "entries_count": 14
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_stock_20250124_to_20250213\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_stock_20250124_to_20250325\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_vehicle_20240906_to_20241105\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\china_vehicle_20240911_to_20241130\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\economic_iran_20241011_to_20241230\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\economic_iran_20250104_to_20250305\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\electric_vehicle_20241003_to_20241102\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\electric_vehicle_20241008_to_20241117\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\electric_vehicle_20241011_to_20241230\\tree\\story_tree.json",
+      "entries_count": 13
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\electric_vehicle_20250104_to_20250124\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\electric_vehicle_20250203_to_20250404\\tree\\story_tree.json",
+      "entries_count": 13
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\europe_export_20241011_to_20241230\\tree\\story_tree.json",
+      "entries_count": 13
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\europe_export_20241127_to_20250106\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\europe_export_20241202_to_20250101\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\europe_export_20241215_to_20250213\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\europe_market_20241001_to_20241220\\tree\\story_tree.json",
+      "entries_count": 32
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\europe_market_20241003_to_20241102\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\europe_market_20241018_to_20241127\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\europe_market_20250203_to_20250404\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\europe_stock_20241210_to_20250228\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\europe_stock_20250126_to_20250307\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\europe_stock_20250203_to_20250404\\tree\\story_tree.json",
+      "entries_count": 20
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\europe_tariff_20241001_to_20241220\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\europe_tariff_20241008_to_20241117\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\europe_tariff_20250111_to_20250210\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\europe_tariff_20250203_to_20250223\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\europe_tariff_20250203_to_20250404\\tree\\story_tree.json",
+      "entries_count": 39
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\export_korea_20241011_to_20241230\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\export_korea_20241018_to_20241127\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\export_korea_20241222_to_20250121\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\export_korea_20250203_to_20250404\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\financial_market_20240911_to_20241130\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\investor_stock_20241018_to_20241127\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\investor_stock_20241031_to_20250119\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\investor_stock_20250312_to_20250411\\tree\\story_tree.json",
+      "entries_count": 2
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\market_china_20241003_to_20241102\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\market_china_20241008_to_20241117\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\market_china_20241011_to_20241230\\tree\\story_tree.json",
+      "entries_count": 15
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\market_china_20250203_to_20250404\\tree\\story_tree.json",
+      "entries_count": 13
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\market_china_20250404_to_20250424\\tree\\story_tree.json",
+      "entries_count": 2
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\musk_california_20241008_to_20241117\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\musk_california_20241011_to_20241230\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\musk_california_20241016_to_20241215\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\oil_russia_20241003_to_20241102\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\oil_russia_20241008_to_20241117\\tree\\story_tree.json",
+      "entries_count": 22
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\oil_russia_20241011_to_20241230\\tree\\story_tree.json",
+      "entries_count": 52
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\oil_russia_20250203_to_20250223\\tree\\story_tree.json",
+      "entries_count": 47
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\oil_russia_20250203_to_20250404\\tree\\story_tree.json",
+      "entries_count": 100
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\russia_economic_20250208_to_20250429\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\russia_export_20241003_to_20241102\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\russia_export_20241011_to_20241230\\tree\\story_tree.json",
+      "entries_count": 27
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\russia_export_20241018_to_20241127\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\russia_export_20250203_to_20250223\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\russia_export_20250203_to_20250404\\tree\\story_tree.json",
+      "entries_count": 20
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\russia_tariff_20241120_to_20250208\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\russia_tariff_20250106_to_20250215\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\russia_tariff_20250111_to_20250210\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\russia_tariff_20250203_to_20250404\\tree\\story_tree.json",
+      "entries_count": 14
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\russia_tariff_20250315_to_20250404\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\stock_market_20241003_to_20241102\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\stock_market_20241011_to_20241230\\tree\\story_tree.json",
+      "entries_count": 29
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\stock_market_20241018_to_20241127\\tree\\story_tree.json",
+      "entries_count": 15
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\stock_market_20250124_to_20250213\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\stock_market_20250203_to_20250404\\tree\\story_tree.json",
+      "entries_count": 15
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_africa_20250119_to_20250409\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_africa_20250223_to_20250424\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_africa_20250307_to_20250416\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_africa_20250312_to_20250411\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_africa_20250404_to_20250424\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_china_20241003_to_20241102\\tree\\story_tree.json",
+      "entries_count": 40
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_china_20241011_to_20241230\\tree\\story_tree.json",
+      "entries_count": 23
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_china_20241018_to_20241127\\tree\\story_tree.json",
+      "entries_count": 51
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_china_20250124_to_20250213\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_china_20250203_to_20250404\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_european_20241210_to_20250228\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_european_20250126_to_20250307\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_european_20250203_to_20250404\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_european_20250312_to_20250411\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_european_20250315_to_20250404\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_india_20241011_to_20241230\\tree\\story_tree.json",
+      "entries_count": 21
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_india_20241018_to_20241127\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_india_20250104_to_20250305\\tree\\story_tree.json",
+      "entries_count": 75
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_india_20250111_to_20250210\\tree\\story_tree.json",
+      "entries_count": 17
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_india_20250203_to_20250223\\tree\\story_tree.json",
+      "entries_count": 55
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_japan_20250203_to_20250404\\tree\\story_tree.json",
+      "entries_count": 15
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_japan_20250215_to_20250327\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_japan_20250312_to_20250411\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_japan_20250315_to_20250404\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_japan_20250409_to_20250628\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_korea_20241210_to_20250228\\tree\\story_tree.json",
+      "entries_count": 13
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_korea_20250106_to_20250215\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_korea_20250131_to_20250302\\tree\\story_tree.json",
+      "entries_count": 18
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_korea_20250203_to_20250223\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_korea_20250203_to_20250404\\tree\\story_tree.json",
+      "entries_count": 20
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_mexico_20241011_to_20241230\\tree\\story_tree.json",
+      "entries_count": 39
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_mexico_20241107_to_20241217\\tree\\story_tree.json",
+      "entries_count": 16
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_mexico_20241112_to_20241212\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_mexico_20250203_to_20250223\\tree\\story_tree.json",
+      "entries_count": 26
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_mexico_20250223_to_20250424\\tree\\story_tree.json",
+      "entries_count": 18
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_taiwan_20241230_to_20250320\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_taiwan_20250126_to_20250307\\tree\\story_tree.json",
+      "entries_count": 2
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_taiwan_20250131_to_20250302\\tree\\story_tree.json",
+      "entries_count": 2
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_taiwan_20250203_to_20250404\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_taiwan_20250404_to_20250424\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_vietnam_20250119_to_20250409\\tree\\story_tree.json",
+      "entries_count": 20
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_vietnam_20250203_to_20250404\\tree\\story_tree.json",
+      "entries_count": 15
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_vietnam_20250312_to_20250411\\tree\\story_tree.json",
+      "entries_count": 15
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_vietnam_20250315_to_20250404\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\tariff_vietnam_20250327_to_20250506\\tree\\story_tree.json",
+      "entries_count": 17
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\trump_stock_20241011_to_20241230\\tree\\story_tree.json",
+      "entries_count": 31
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\trump_stock_20241018_to_20241127\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\trump_stock_20241023_to_20241122\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\trump_stock_20250203_to_20250223\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\trump_stock_20250203_to_20250404\\tree\\story_tree.json",
+      "entries_count": 32
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\trump_tariff_20240822_to_20241110\\tree\\story_tree.json",
+      "entries_count": 16
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\trump_tariff_20240926_to_20241125\\tree\\story_tree.json",
+      "entries_count": 28
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\trump_tariff_20241003_to_20241102\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\trump_tariff_20241008_to_20241117\\tree\\story_tree.json",
+      "entries_count": 46
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\trump_tariff_20250203_to_20250223\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\vehicle_tariff_20240822_to_20241110\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\vehicle_tariff_20250203_to_20250404\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_economy\\vehicle_tariff_20250307_to_20250416\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\accused_israel_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 14
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\aid_gaza_humanitarian_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\aid_gaza_humanitarian_20241016_to_20241215\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\aid_gaza_humanitarian_20250105_to_20250125\\tree\\story_tree.json",
+      "entries_count": 1
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\aid_gaza_humanitarian_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 21
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\aid_gaza_humanitarian_20250214_to_20250316\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\aid_trump_ukraine_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\aid_trump_ukraine_20241112_to_20241222\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\aid_trump_ukraine_20250105_to_20250125\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\aid_trump_ukraine_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 22
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\aid_trump_ukraine_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_ceasefire_20250111_to_20250401\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_ceasefire_20250114_to_20250315\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_europe_20241023_to_20241202\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_europe_20241225_to_20250223\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_europe_20250111_to_20250401\\tree\\story_tree.json",
+      "entries_count": 28
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_europe_20250214_to_20250306\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_europe_20250214_to_20250316\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_hamas_20241205_to_20250203\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_hamas_20250111_to_20250220\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_hamas_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 14
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_hamas_20250125_to_20250214\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_hamas_20250214_to_20250316\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_iran_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_iran_20241017_to_20241116\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_iran_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_iran_20241027_to_20241116\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_iran_20250210_to_20250501\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_nato_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_nato_20250125_to_20250224\\tree\\story_tree.json",
+      "entries_count": 2
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_nato_20250131_to_20250312\\tree\\story_tree.json",
+      "entries_count": 2
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_nato_20250223_to_20250424\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_security_20250114_to_20250315\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_ukraine_20241016_to_20241215\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_ukraine_20241023_to_20241202\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_ukraine_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 22
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_ukraine_20250214_to_20250306\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_ukraine_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 14
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_war_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 21
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_war_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 23
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_war_20241216_to_20250105\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_war_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 24
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\america_war_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\biden_ceasefire_20241023_to_20241202\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\biden_ceasefire_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\biden_ceasefire_20241116_to_20241206\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\biden_ceasefire_20250105_to_20250204\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\biden_ceasefire_20250111_to_20250401\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\china_missile_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\china_missile_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 17
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\china_missile_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\china_missile_20250125_to_20250214\\tree\\story_tree.json",
+      "entries_count": 2
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\china_missile_20250125_to_20250224\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\china_nato_20241112_to_20250131\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\china_security_20240903_to_20241013\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\china_security_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\china_security_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 13
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\china_war_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 15
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\china_war_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\china_war_20241126_to_20241216\\tree\\story_tree.json",
+      "entries_count": 13
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\china_war_20250111_to_20250401\\tree\\story_tree.json",
+      "entries_count": 26
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\china_war_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 38
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\diplomacy_israel_20240913_to_20241202\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_putin_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 12
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_putin_20250111_to_20250220\\tree\\story_tree.json",
+      "entries_count": 19
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_putin_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 14
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_putin_20250125_to_20250214\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_putin_20250214_to_20250316\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_russia_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 12
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_russia_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 31
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_russia_20241116_to_20241206\\tree\\story_tree.json",
+      "entries_count": 14
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_russia_20250210_to_20250501\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_russia_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_security_20241023_to_20241202\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_security_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 12
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_security_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 26
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_security_20250214_to_20250306\\tree\\story_tree.json",
+      "entries_count": 33
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_security_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 13
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_ukraine_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 23
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_ukraine_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 35
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_ukraine_20241126_to_20241216\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_ukraine_20241202_to_20250220\\tree\\story_tree.json",
+      "entries_count": 171
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_ukraine_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 20
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_war_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 30
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_war_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 30
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_war_20241116_to_20241206\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_war_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 38
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\europe_war_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 30
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\gaza_hamas_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 27
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\gaza_hamas_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 21
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\gaza_hamas_20241126_to_20241216\\tree\\story_tree.json",
+      "entries_count": 14
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\gaza_hamas_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 144
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\gaza_hamas_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 78
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\gaza_hezbollah_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\gaza_hezbollah_20241017_to_20241116\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\gaza_hezbollah_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\gaza_hezbollah_20241112_to_20250131\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\gaza_hezbollah_20241116_to_20241206\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\hamas_hostage_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 22
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\hamas_hostage_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\hamas_hostage_20241126_to_20241216\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\hamas_hostage_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 17
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\hamas_hostage_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 16
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\hezbollah_missile_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\hezbollah_missile_20241023_to_20250111\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\hezbollah_missile_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\hezbollah_missile_20241027_to_20241116\\tree\\story_tree.json",
+      "entries_count": 1
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\hezbollah_missile_20241106_to_20241206\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\iran_israel_20241112_to_20241222\\tree\\story_tree.json",
+      "entries_count": 39
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\iran_israel_20241115_to_20250114\\tree\\story_tree.json",
+      "entries_count": 46
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\iran_israel_20241126_to_20241216\\tree\\story_tree.json",
+      "entries_count": 36
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\iran_israel_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 36
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\iran_israel_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 16
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\iran_negotiation_20250114_to_20250315\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\iran_negotiation_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 18
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\iran_negotiation_20250220_to_20250401\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\iran_negotiation_20250316_to_20250415\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\iran_negotiation_20250326_to_20250415\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\iran_nuclear_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 39
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\iran_nuclear_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 33
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\iran_nuclear_20241126_to_20241216\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\iran_nuclear_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\iran_nuclear_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 23
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\israel_hamas_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\israel_hamas_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 42
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\israel_hamas_20241126_to_20241216\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\israel_hamas_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\israel_hamas_20250322_to_20250610\\tree\\story_tree.json",
+      "entries_count": 37
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\israel_palestinian_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 44
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\israel_palestinian_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 40
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\israel_palestinian_20241126_to_20241216\\tree\\story_tree.json",
+      "entries_count": 19
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\israel_palestinian_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 15
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\israel_palestinian_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 61
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\israel_ukraine_20240127_to_20240307\\tree\\story_tree.json",
+      "entries_count": 1
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\israel_ukraine_20240210_to_20240301\\tree\\story_tree.json",
+      "entries_count": 1
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\israel_ukraine_20241016_to_20241215\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\israel_ukraine_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 15
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\lebanon_hezbollah_20240923_to_20241102\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\lebanon_hezbollah_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 13
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\lebanon_hezbollah_20241126_to_20241216\\tree\\story_tree.json",
+      "entries_count": 15
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\lebanon_hezbollah_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 33
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\lebanon_hezbollah_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 13
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\lebanon_syria_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 14
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\lebanon_syria_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 12
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\lebanon_syria_20241126_to_20241216\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\lebanon_syria_20250111_to_20250401\\tree\\story_tree.json",
+      "entries_count": 30
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\lebanon_syria_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\missile_ukraine_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 16
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\missile_ukraine_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 63
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\missile_ukraine_20241126_to_20241216\\tree\\story_tree.json",
+      "entries_count": 33
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\missile_ukraine_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 28
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\missile_ukraine_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 13
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\moscow_kyiv_20250114_to_20250315\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\moscow_kyiv_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\nato_ukraine_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 28
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\nato_ukraine_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 18
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\nato_ukraine_20241126_to_20241216\\tree\\story_tree.json",
+      "entries_count": 22
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\nato_ukraine_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\nato_ukraine_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 25
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_ceasefire_20241115_to_20250114\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_ceasefire_20250111_to_20250220\\tree\\story_tree.json",
+      "entries_count": 15
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_ceasefire_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 61
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_ceasefire_20250214_to_20250306\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_ceasefire_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 39
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_missile_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 19
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_missile_20241016_to_20241215\\tree\\story_tree.json",
+      "entries_count": 101
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_missile_20241126_to_20241216\\tree\\story_tree.json",
+      "entries_count": 72
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_missile_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 55
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_missile_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 17
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_nato_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 21
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_nato_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 12
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_nato_20241126_to_20241216\\tree\\story_tree.json",
+      "entries_count": 19
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_nato_20250111_to_20250401\\tree\\story_tree.json",
+      "entries_count": 31
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_nato_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 12
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_security_20241023_to_20241202\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_security_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 12
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_security_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 19
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_security_20250214_to_20250306\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_security_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_war_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_war_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 12
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_war_20241126_to_20241216\\tree\\story_tree.json",
+      "entries_count": 42
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_war_20241202_to_20250220\\tree\\story_tree.json",
+      "entries_count": 45
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\russia_war_20250214_to_20250316\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\syria_bashar_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 12
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\syria_bashar_20241112_to_20241222\\tree\\story_tree.json",
+      "entries_count": 14
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\syria_bashar_20241202_to_20250220\\tree\\story_tree.json",
+      "entries_count": 14
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\syria_bashar_20241216_to_20250105\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\syria_bashar_20241216_to_20250115\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\syria_militant_20241023_to_20241202\\tree\\story_tree.json",
+      "entries_count": 1
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\syria_militant_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\syria_militant_20241126_to_20241216\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\syria_militant_20241126_to_20241226\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\syria_militant_20241202_to_20250220\\tree\\story_tree.json",
+      "entries_count": 14
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\trump_war_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 92
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\trump_war_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 43
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\trump_war_20241126_to_20241216\\tree\\story_tree.json",
+      "entries_count": 17
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\trump_war_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 46
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\trump_war_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 71
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\ukraine_allie_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\ukraine_allie_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 13
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\ukraine_allie_20241027_to_20241116\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\ukraine_allie_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 37
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\ukraine_allie_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\ukraine_security_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\ukraine_security_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 14
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\ukraine_security_20241126_to_20241216\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\ukraine_security_20250210_to_20250501\\tree\\story_tree.json",
+      "entries_count": 32
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\ukraine_security_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 26
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\zelensky_biden_20240913_to_20241202\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\zelensky_biden_20240923_to_20241102\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\zelensky_biden_20240926_to_20241125\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\zelensky_nato_20241003_to_20241112\\tree\\story_tree.json",
+      "entries_count": 2
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\zelensky_nato_20241026_to_20241225\\tree\\story_tree.json",
+      "entries_count": 18
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\zelensky_nato_20241126_to_20241216\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\zelensky_nato_20250121_to_20250411\\tree\\story_tree.json",
+      "entries_count": 27
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_military\\zelensky_nato_20250224_to_20250326\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_allie_20250113_to_20250403\\tree\\story_tree.json",
+      "entries_count": 13
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_biden_20240925_to_20241214\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_biden_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_biden_20241012_to_20241111\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_biden_20241031_to_20241210\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_biden_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 21
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_china_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 19
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_china_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 13
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_china_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 17
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_china_20241030_to_20241119\\tree\\story_tree.json",
+      "entries_count": 13
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_china_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_educat_20241204_to_20250222\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_elect_20240816_to_20241104\\tree\\story_tree.json",
+      "entries_count": 19
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_elect_20240911_to_20241021\\tree\\story_tree.json",
+      "entries_count": 12
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_elect_20240921_to_20241120\\tree\\story_tree.json",
+      "entries_count": 23
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_elect_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_elect_20241111_to_20241211\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_financial_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_financial_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_financial_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_financial_20241030_to_20241119\\tree\\story_tree.json",
+      "entries_count": 2
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_financial_20241120_to_20250119\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_gaza_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 12
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_gaza_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_gaza_20241220_to_20250218\\tree\\story_tree.json",
+      "entries_count": 16
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_gaza_20250110_to_20250209\\tree\\story_tree.json",
+      "entries_count": 13
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_gaza_20250118_to_20250207\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_harris_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 14
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_harris_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 19
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_harris_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_harris_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_harris_20241031_to_20241230\\tree\\story_tree.json",
+      "entries_count": 31
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_israel_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 17
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_israel_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_israel_20241012_to_20241111\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_israel_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_korea_20241025_to_20250113\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_russia_20240930_to_20241020\\tree\\story_tree.json",
+      "entries_count": 2
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_russia_20241001_to_20241110\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_russia_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_russia_20241111_to_20241211\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_russia_20241220_to_20250218\\tree\\story_tree.json",
+      "entries_count": 34
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_trump_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 55
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_trump_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 24
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_trump_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 68
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_trump_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 33
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\america_trump_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 23
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\biden_immigrat_20241001_to_20241110\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\biden_immigrat_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\biden_immigrat_20241031_to_20241230\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\biden_prosecut_20241114_to_20250202\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\biden_prosecut_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\biden_prosecut_20241221_to_20250120\\tree\\story_tree.json",
+      "entries_count": 1
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\biden_putin_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\biden_putin_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 1
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\biden_putin_20241030_to_20241119\\tree\\story_tree.json",
+      "entries_count": 1
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\biden_putin_20241031_to_20241210\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\biden_putin_20241031_to_20241230\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\biden_republican_20240126_to_20240225\\tree\\story_tree.json",
+      "entries_count": 2
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\biden_republican_20240223_to_20240314\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\biden_republican_20240224_to_20240404\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\biden_republican_20241114_to_20250202\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\biden_republican_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\biden_ukraine_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 39
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\biden_ukraine_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 2
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\biden_ukraine_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 39
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\biden_ukraine_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 20
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\biden_ukraine_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 32
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\border_security_trump_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\border_security_trump_20241031_to_20241210\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\border_security_trump_20241031_to_20241230\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\border_security_trump_20250110_to_20250209\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\border_security_trump_20250118_to_20250207\\tree\\story_tree.json",
+      "entries_count": 2
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_iran_20240930_to_20241020\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_iran_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 23
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_iran_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_iran_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_iran_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 15
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_korea_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 19
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_korea_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 2
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_korea_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_korea_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_korea_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 12
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_maritime_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 14
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_maritime_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_maritime_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_maritime_20241031_to_20241230\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_russia_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 63
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_russia_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 16
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_russia_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 45
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_russia_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 30
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_russia_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 15
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_security_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_security_20241120_to_20250119\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_security_20241210_to_20250119\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\china_security_20250311_to_20250410\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\chinese_sanction_20241224_to_20250314\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\diplomatic_russia_20241224_to_20250314\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\diplomatic_russia_20250109_to_20250310\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\diplomatic_russia_20250208_to_20250320\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_biden_20240930_to_20241020\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_biden_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 87
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_biden_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 53
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_biden_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 25
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_biden_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_democrat_20241001_to_20241110\\tree\\story_tree.json",
+      "entries_count": 12
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_democrat_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 25
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_democrat_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_democrat_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 12
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_democrat_20241120_to_20250119\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_florida_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 30
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_florida_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_florida_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 25
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_florida_20241011_to_20241210\\tree\\story_tree.json",
+      "entries_count": 40
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_florida_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 23
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_harris_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_harris_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_harris_20241025_to_20250113\\tree\\story_tree.json",
+      "entries_count": 18
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_harris_20241031_to_20241210\\tree\\story_tree.json",
+      "entries_count": 13
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_harris_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_president_20240911_to_20241021\\tree\\story_tree.json",
+      "entries_count": 29
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_president_20240925_to_20241214\\tree\\story_tree.json",
+      "entries_count": 102
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_president_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 41
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_president_20241111_to_20241211\\tree\\story_tree.json",
+      "entries_count": 49
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_president_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 34
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_reform_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_reform_20241120_to_20241230\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_reform_20241220_to_20250218\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_reform_20250319_to_20250408\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_reform_20250331_to_20250430\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_republican_20240905_to_20241124\\tree\\story_tree.json",
+      "entries_count": 31
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_republican_20240911_to_20241021\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_republican_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_republican_20241111_to_20241211\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_republican_20241120_to_20250119\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_security_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 13
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_security_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 14
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_security_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_security_20241119_to_20241209\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_security_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_trump_20240911_to_20241021\\tree\\story_tree.json",
+      "entries_count": 31
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_trump_20240930_to_20241020\\tree\\story_tree.json",
+      "entries_count": 57
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_trump_20241111_to_20241211\\tree\\story_tree.json",
+      "entries_count": 36
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_trump_20241114_to_20250202\\tree\\story_tree.json",
+      "entries_count": 34
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\elect_trump_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 30
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\europe_china_20241001_to_20241110\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\europe_china_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 20
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\europe_china_20241011_to_20241210\\tree\\story_tree.json",
+      "entries_count": 19
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\europe_china_20250130_to_20250301\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\europe_china_20250207_to_20250227\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\executive_order_trump_20241114_to_20250202\\tree\\story_tree.json",
+      "entries_count": 56
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\executive_order_trump_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 72
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\executive_order_trump_20241210_to_20250119\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\executive_order_trump_20241221_to_20250120\\tree\\story_tree.json",
+      "entries_count": 35
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\executive_order_trump_20250207_to_20250227\\tree\\story_tree.json",
+      "entries_count": 42
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\immigrat_student_20241224_to_20250314\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\immigrat_student_20250109_to_20250310\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\immigrat_student_20250130_to_20250301\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\immigrat_student_20250228_to_20250409\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\russia_elect_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 41
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\russia_elect_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\russia_elect_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 25
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\russia_elect_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 17
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\russia_elect_20241220_to_20250218\\tree\\story_tree.json",
+      "entries_count": 2
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\russia_policy_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\russia_policy_20241031_to_20241230\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\russia_policy_20250119_to_20250228\\tree\\story_tree.json",
+      "entries_count": 2
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\russia_sanction_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 27
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\russia_sanction_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\russia_sanction_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 22
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\russia_sanction_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 43
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\russia_sanction_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 46
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\senate_trump_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 60
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\senate_trump_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 54
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\senate_trump_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 30
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\senate_trump_20241030_to_20241119\\tree\\story_tree.json",
+      "entries_count": 46
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\senate_trump_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 17
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_biden_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 21
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_biden_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 30
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_biden_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 45
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_biden_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 40
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_biden_20241120_to_20250119\\tree\\story_tree.json",
+      "entries_count": 62
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_campaign_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 19
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_campaign_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 64
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_campaign_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 54
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_campaign_20241012_to_20241111\\tree\\story_tree.json",
+      "entries_count": 47
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_campaign_20241031_to_20241230\\tree\\story_tree.json",
+      "entries_count": 13
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_china_20241001_to_20241110\\tree\\story_tree.json",
+      "entries_count": 65
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_china_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 40
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_china_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 41
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_china_20241030_to_20241119\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_china_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 12
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_court_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 12
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_court_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 26
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_court_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 20
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_court_20241030_to_20241119\\tree\\story_tree.json",
+      "entries_count": 14
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_court_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 57
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_education_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_education_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_education_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_education_20241030_to_20241119\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_education_20241120_to_20250119\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_florida_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 48
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_florida_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 28
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_florida_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 21
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_florida_20241030_to_20241119\\tree\\story_tree.json",
+      "entries_count": 24
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_florida_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 23
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_hamas_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 21
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_hamas_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_hamas_20241030_to_20241119\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_hamas_20241111_to_20241211\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_hamas_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 36
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_harris_20241001_to_20241110\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_harris_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_harris_20241111_to_20241211\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_harris_20241114_to_20250202\\tree\\story_tree.json",
+      "entries_count": 24
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_harris_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 20
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_immigrat_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_immigrat_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_immigrat_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 23
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_immigrat_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 40
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_immigrat_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_impeach_20241204_to_20250222\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_impeach_20241220_to_20250218\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_impeach_20241230_to_20250208\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_impeach_20250130_to_20250301\\tree\\story_tree.json",
+      "entries_count": 2
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_impeach_20250319_to_20250408\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_inaugurat_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 46
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_inaugurat_20241031_to_20241210\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_inaugurat_20241111_to_20241211\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_inaugurat_20241119_to_20241209\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_inaugurat_20241120_to_20250119\\tree\\story_tree.json",
+      "entries_count": 21
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_investigat_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_investigat_20241031_to_20241210\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_investigat_20241111_to_20241211\\tree\\story_tree.json",
+      "entries_count": 2
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_investigat_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 12
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_investigat_20241229_to_20250118\\tree\\story_tree.json",
+      "entries_count": 1
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_judge_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 21
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_judge_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_judge_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 38
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_judge_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 23
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_judge_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 85
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_korea_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 28
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_korea_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_korea_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 28
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_korea_20241030_to_20241119\\tree\\story_tree.json",
+      "entries_count": 16
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_korea_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 16
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_musk_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_musk_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 37
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_musk_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_musk_20241025_to_20250113\\tree\\story_tree.json",
+      "entries_count": 18
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_musk_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 51
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_protest_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_protest_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_protest_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 2
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_protest_20241030_to_20241119\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_protest_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 17
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_russia_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 37
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_russia_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 2
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_russia_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 50
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_russia_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 43
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_russia_20241120_to_20250119\\tree\\story_tree.json",
+      "entries_count": 43
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_scandal_20250113_to_20250403\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_scandal_20250129_to_20250330\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_senate_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 39
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_senate_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 40
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_senate_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 20
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_senate_20241030_to_20241119\\tree\\story_tree.json",
+      "entries_count": 21
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_senate_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 25
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_ukraine_20240925_to_20241214\\tree\\story_tree.json",
+      "entries_count": 15
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_ukraine_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_ukraine_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 19
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_ukraine_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 23
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_ukraine_20241130_to_20250129\\tree\\story_tree.json",
+      "entries_count": 12
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_voter_20241005_to_20241224\\tree\\story_tree.json",
+      "entries_count": 30
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_voter_20241010_to_20241030\\tree\\story_tree.json",
+      "entries_count": 59
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_voter_20241011_to_20241120\\tree\\story_tree.json",
+      "entries_count": 63
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_voter_20241022_to_20241121\\tree\\story_tree.json",
+      "entries_count": 23
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\trump_voter_20241120_to_20250119\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\yoon_impeach_20241025_to_20250113\\tree\\story_tree.json",
+      "entries_count": 14
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\yoon_impeach_20241031_to_20241210\\tree\\story_tree.json",
+      "entries_count": 32
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\yoon_impeach_20241111_to_20241211\\tree\\story_tree.json",
+      "entries_count": 21
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\yoon_impeach_20241119_to_20241209\\tree\\story_tree.json",
+      "entries_count": 19
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_politic\\yoon_impeach_20241220_to_20250218\\tree\\story_tree.json",
+      "entries_count": 18
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\california_police_20241002_to_20241221\\tree\\story_tree.json",
+      "entries_count": 15
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\california_police_20241008_to_20241207\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\california_wildfire_20241006_to_20241115\\tree\\story_tree.json",
+      "entries_count": 12
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\california_wildfire_20241103_to_20241203\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\california_wildfire_20250116_to_20250205\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\california_wildfire_20250120_to_20250410\\tree\\story_tree.json",
+      "entries_count": 19
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\california_wildfire_20250215_to_20250416\\tree\\story_tree.json",
+      "entries_count": 15
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\florida_hurricane_20240714_to_20241002\\tree\\story_tree.json",
+      "entries_count": 9
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\florida_hurricane_20240728_to_20240906\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\florida_hurricane_20240730_to_20240819\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\florida_hurricane_20240809_to_20241008\\tree\\story_tree.json",
+      "entries_count": 48
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\gaza_humanitarian_20241006_to_20241115\\tree\\story_tree.json",
+      "entries_count": 30
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\gaza_humanitarian_20241103_to_20241203\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\gaza_humanitarian_20241227_to_20250116\\tree\\story_tree.json",
+      "entries_count": 6
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\gaza_humanitarian_20250120_to_20250410\\tree\\story_tree.json",
+      "entries_count": 33
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\gaza_humanitarian_20250215_to_20250416\\tree\\story_tree.json",
+      "entries_count": 13
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\police_shoot_20240825_to_20240924\\tree\\story_tree.json",
+      "entries_count": 1
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\police_shoot_20240906_to_20241016\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\police_shoot_20241217_to_20250106\\tree\\story_tree.json",
+      "entries_count": 28
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\police_shoot_20250301_to_20250520\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\police_shoot_20250327_to_20250526\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\russia_shoot_20240926_to_20241105\\tree\\story_tree.json",
+      "entries_count": 5
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\russia_shoot_20241213_to_20250112\\tree\\story_tree.json",
+      "entries_count": 7
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\russia_shoot_20241221_to_20250311\\tree\\story_tree.json",
+      "entries_count": 15
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\russia_shoot_20241227_to_20250116\\tree\\story_tree.json",
+      "entries_count": 10
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\russia_shoot_20241227_to_20250225\\tree\\story_tree.json",
+      "entries_count": 11
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\trump_war_20241006_to_20241115\\tree\\story_tree.json",
+      "entries_count": 60
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\trump_war_20241103_to_20241203\\tree\\story_tree.json",
+      "entries_count": 71
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\trump_war_20241227_to_20250116\\tree\\story_tree.json",
+      "entries_count": 17
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\trump_war_20250120_to_20250410\\tree\\story_tree.json",
+      "entries_count": 50
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\trump_war_20250215_to_20250416\\tree\\story_tree.json",
+      "entries_count": 41
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\ukraine_security_20241006_to_20241115\\tree\\story_tree.json",
+      "entries_count": 8
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\ukraine_security_20241103_to_20241203\\tree\\story_tree.json",
+      "entries_count": 3
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\ukraine_security_20241227_to_20250116\\tree\\story_tree.json",
+      "entries_count": 4
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\ukraine_security_20250110_to_20250331\\tree\\story_tree.json",
+      "entries_count": 104
+    },
+    {
+      "tree_path": "c:\\Users\\17795\\Desktop\\dataset\\dataset_society\\ukraine_security_20250215_to_20250416\\tree\\story_tree.json",
+      "entries_count": 44
+    }
+  ]
+}
